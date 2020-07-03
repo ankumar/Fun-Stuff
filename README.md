@@ -12,11 +12,14 @@
 * https://keras.io/examples/vision/captcha_ocr/
 * https://github.com/keras-team/keras-io/blob/master/call_for_contributions.md
 
-2. GCP
+2. OpenAI
+* https://github.com/openai
+
+3. GCP
 * https://medium.com/google-cloud/video-object-tracking-as-a-service-18eb4227df34
 
-3. NVIDIA
+4. NVIDIA
 * https://developer.nvidia.com/isaac-sim
 
-4. MICROSOFT
+5. MICROSOFT
 * https://microsoft.github.io/moab/
