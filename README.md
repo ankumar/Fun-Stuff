@@ -5,6 +5,7 @@
 * [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
 * [DIY Autonomous Cars](https://diyrobocars.com/)
 * [Robotics Masters](https://www.roboticsmasters.co/)
+* [Home Robot](https://ximpatico.com/)
   
 ### Tools ...
 
