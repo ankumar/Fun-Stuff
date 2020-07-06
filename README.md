@@ -6,6 +6,7 @@
 * [DIY Autonomous Cars](https://diyrobocars.com/)
 * [Robotics Masters](https://www.roboticsmasters.co/)
 * [Home Robot](https://ximpatico.com/)
+* [Backyard Robotics](https://backyardrobotics.eu/)
   
 ### Tools ...
 
