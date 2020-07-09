@@ -18,7 +18,8 @@
 * https://github.com/openai
 
 3. **GCP**
-* https://medium.com/google-cloud/video-object-tracking-as-a-service-18eb4227df34
+* https://github.com/tensorflow/cloud
+  * https://medium.com/google-cloud/video-object-tracking-as-a-service-18eb4227df34
 
 4. **NVIDIA**
 * https://developer.nvidia.com/isaac-sim
