@@ -1,7 +1,7 @@
 
 [Data-Centricity: A Challenge and Opportunity for Computing Education](https://cs.brown.edu/~sk/Publications/Papers/Published/kf-data-centric/paper.pdf)
 
-### Autonomous future
+### Autonomous Algorithms
 * [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
 * [DIY Autonomous Cars](https://diyrobocars.com/)
 * [Robotics Masters](https://www.roboticsmasters.co/)
