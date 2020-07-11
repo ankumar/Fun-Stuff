@@ -7,8 +7,8 @@
 * [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
 
 Pipeline:
-* [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
 * [DIY Autonomous Cars](https://diyrobocars.com/)
+* [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
 * [Robotics Masters](https://www.roboticsmasters.co/)
 * [Backyard Robotics](https://backyardrobotics.eu/)
 
