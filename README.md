@@ -15,4 +15,5 @@ Pipeline:
 
 ### Tools ...
 
-</>
+* AWS
+* GCP
