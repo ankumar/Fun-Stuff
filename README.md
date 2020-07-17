@@ -9,11 +9,11 @@
 Reward functions: <>
 
 * Pipeline:
-  * RC Cars
-    * [DIY Autonomous Cars](https://diyrobocars.com/)
-    * [Robotics Masters](https://www.roboticsmasters.co/)
-  * [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
-  * [Backyard Robotics](https://backyardrobotics.eu/)
+* RC Cars
+  * [DIY Autonomous Cars](https://diyrobocars.com/)
+  * [Robotics Masters](https://www.roboticsmasters.co/)
+* [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
+* [Backyard Robotics](https://backyardrobotics.eu/)
 
 ### Tools ...
 
