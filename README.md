@@ -6,7 +6,7 @@
 
 * [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
 
-Reward functions: </>
+Reward functions: <>
 
 Pipeline:
 * RC Cars
