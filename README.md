@@ -1,6 +1,6 @@
 ### Autonomous Algorithms
 
-Context: --
+Context:
 [Data-Centricity: A Challenge and Opportunity for Computing Education](https://cs.brown.edu/~sk/Publications/Papers/Published/kf-data-centric/paper.pdf)
 
 
