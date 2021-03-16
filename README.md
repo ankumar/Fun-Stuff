@@ -8,13 +8,13 @@
 
 ### Trails
 
-W/ Ashok & Venky:
-
----
-
 1. Los Gatos (default)
 
 ![Los Gatos Trails](https://user-images.githubusercontent.com/658791/111216791-14771500-8592-11eb-8989-926a5dca6489.jpg)
+
+---
+
+W/ Ashok & Venky:
 
 ---
 
