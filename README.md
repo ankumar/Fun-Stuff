@@ -24,7 +24,7 @@ W/ Vijay:
 
 ### My Favs
 
-Binge Listening Ustad Nusrat Fateh Ali Khan 
+Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
 1. https://www.youtube.com/watch?v=HjdnGQoKO-8
 2. https://www.youtube.com/watch?v=mXY5-TK2sJ0
