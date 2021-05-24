@@ -30,6 +30,8 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 2. https://www.youtube.com/watch?v=mXY5-TK2sJ0
 3. https://www.youtube.com/watch?v=gY01irEl8Eo
 
+Talks: https://github.com/ankumar/Talks
+
 ### Robotics
 
 * Currently, [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
