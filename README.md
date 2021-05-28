@@ -6,23 +6,13 @@
 
 ---
 
-W/ Ashok & Venky:
-
----
-
-W/ https://github.com/sureshms:
-
----
-
-W/ Vijay:
-
 1. Steven's Creek reservoir
 2. Sanborn Park (Saratoga)
 3. Quarry Park (Saratoga)
 4. Bear Creek Redwoods (Los Gatos - need to get there early)
 5. Russian Ridge off Skyline 
 
-### My Favs
+### Music
 
 Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
@@ -30,7 +20,9 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 2. https://www.youtube.com/watch?v=mXY5-TK2sJ0
 3. https://www.youtube.com/watch?v=gY01irEl8Eo
 
-Talks: https://github.com/ankumar/Talks
+### Talks
+
+1. https://github.com/ankumar/Talks
 
 ### Robotics
 
