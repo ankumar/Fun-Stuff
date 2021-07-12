@@ -22,7 +22,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
 ### Talks
 
-1. https://github.com/ankumar/Talks
+1. https://github.com/ankumar/Talks (Binge on Russ Ackoff)
 2. https://www.kqed.org/
 
 ### Robotics
