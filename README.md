@@ -12,6 +12,10 @@
 4. Bear Creek Redwoods (Los Gatos - need to get there early)
 5. Russian Ridge off Skyline 
 
+### Food
+
+1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/arts/13904835/san-jose-immigrant-food)
+
 ### Music
 
 Binge Listening to **Ustad Nusrat Fateh Ali Khan**
