@@ -14,7 +14,7 @@
 
 ### Food
 
-1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/arts/13904835/san-jose-immigrant-food)
+1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/sanjosefood)
 2. [Stanley Tucci: Searching For Italy](https://www.cnn.com/travel/article/stanley-tucci-searching-for-italy-restaurants/index.html)
 
 ### Music
