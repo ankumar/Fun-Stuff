@@ -25,6 +25,10 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 2. https://www.youtube.com/watch?v=mXY5-TK2sJ0
 3. https://www.youtube.com/watch?v=gY01irEl8Eo
 
+### Travel
+
+1. https://www.ricksteves.com/europe
+
 ### Talks
 
 1. https://github.com/ankumar/Talks (Binge on Russ Ackoff)
