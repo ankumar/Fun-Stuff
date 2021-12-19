@@ -35,9 +35,10 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
 1. https://github.com/ankumar/Talks (Binge on Russ Ackoff)
 2. https://www.kqed.org/ (Local Public Radio)
-3. https://www.stitcher.com/show/masters-of-scale
-4. https://open.spotify.com/show/12gkbhPfgfqgOd8F6KNv9y
-5. https://humansplus.tech/
+3. https://freakonomics.com/
+4. https://www.stitcher.com/show/masters-of-scale
+5. https://open.spotify.com/show/12gkbhPfgfqgOd8F6KNv9y
+6. https://humansplus.tech/
 
 ### Robotics
 
