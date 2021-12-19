@@ -11,11 +11,13 @@
 3. Quarry Park (Saratoga)
 4. Bear Creek Redwoods (Los Gatos - need to get there early)
 5. Russian Ridge off Skyline 
+6. Portola Valley
 
 ### Food
 
 1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/sanjosefood)
 2. [Stanley Tucci: Searching For Italy](https://www.cnn.com/travel/article/stanley-tucci-searching-for-italy-restaurants/index.html)
+3. [Rossotti's Alpine Inn](https://www.alpineinnpv.com/)
 
 ### Music
 
