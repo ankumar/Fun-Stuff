@@ -52,6 +52,6 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
 ### Places & Things
 
-https://bouqs.com/
-http://a2bcalifornia.us/
-https://www.ettanrestaurant.com/
+* https://bouqs.com/
+* http://a2bcalifornia.us/
+* https://www.ettanrestaurant.com/
