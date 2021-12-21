@@ -56,5 +56,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * https://bouqs.com/
 * http://a2bcalifornia.us/
 * https://www.ettanrestaurant.com/
+* https://www.zareensrestaurant.com/
 * https://aryavaidyasala.com/
 * https://www.outdoor-office.com/
+
