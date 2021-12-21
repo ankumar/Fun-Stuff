@@ -39,7 +39,6 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 4. https://www.stitcher.com/show/masters-of-scale
 5. https://open.spotify.com/show/12gkbhPfgfqgOd8F6KNv9y
 6. https://humansplus.tech/
-7. https://probablefutures.org/
 
 ### Robotics
 
@@ -59,4 +58,6 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * https://www.zareensrestaurant.com/
 * https://aryavaidyasala.com/
 * https://www.outdoor-office.com/
+* https://probablefutures.org/
+
 
