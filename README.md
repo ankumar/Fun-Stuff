@@ -12,6 +12,7 @@
 4. Bear Creek Redwoods (Los Gatos - need to get there early)
 5. Russian Ridge off Skyline 
 6. Portola Valley
+7. [Tiger Mountain Trail](https://www.wta.org/go-hiking/hikes/tiger-mountain-trail)
 
 ### Food
 
