@@ -50,6 +50,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
   * [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
   * RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) / [Robotics Masters](https://www.roboticsmasters.co/)
   * [Backyard Robotics](https://backyardrobotics.eu/)
+  * [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
 
 ---
 
