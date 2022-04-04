@@ -1,3 +1,5 @@
+### Work
+
 **Messenger, Mail & SoftSwitch [1997-2010]:** 
 **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * My Software Driven World started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP -> VoIP)
