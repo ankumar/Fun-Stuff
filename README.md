@@ -1,4 +1,4 @@
-### Work
+### Work:
 
 **Messenger, Mail & SoftSwitch [1997-2010]:** 
 **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
@@ -36,7 +36,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
   * Developer Portal & Application Delivery  
   * Open source - [Backstage](https://platformengineering.org/platform-tooling) (+ [Notebooks](https://jupyter.org/)) & Argo CD GitOps
  
-### Trails
+### Trails:
 
 1. Los Gatos (default)
 
@@ -52,7 +52,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 6. Portola Valley
 7. [Tiger Mountain Trail](https://www.wta.org/go-hiking/hikes/tiger-mountain-trail)
 
-### Food
+### Food:
 
 1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/sanjosefood)
 2. [Rossotti's Alpine Inn](https://www.alpineinnpv.com/)
