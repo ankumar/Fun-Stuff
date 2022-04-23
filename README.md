@@ -38,6 +38,8 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
  
 ### Trails:
 
+[A GEEK’S TOUR OF SILICON VALLEY](https://dirkriehle.com/open-books/a-geeks-tour-of-silicon-valley/)
+
 1. Los Gatos (default)
 
 ![Los Gatos Trails](https://user-images.githubusercontent.com/658791/111216791-14771500-8592-11eb-8989-926a5dca6489.jpg)
