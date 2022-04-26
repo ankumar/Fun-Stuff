@@ -81,17 +81,6 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 6. https://humansplus.tech/
 7. https://changelog.com/podcasts
 
-### Robotics
-
-* Currently, [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
-* Pipeline:
-  * [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
-  * RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) / [Robotics Masters](https://www.roboticsmasters.co/)
-  * [Backyard Robotics](https://backyardrobotics.eu/)
-  * [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
-
----
-
 ### Places & Things
 
 * [A GEEK’S TOUR OF SILICON VALLEY](https://dirkriehle.com/open-books/a-geeks-tour-of-silicon-valley/)
@@ -103,5 +92,14 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * https://www.outdoor-office.com/
 * https://probablefutures.org/
 * https://www.asics.com/us/en-us/stability-shoes/c/aa50400000/
+
+### Robotics
+
+* Currently, [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
+* Pipeline:
+  * [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
+  * RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) / [Robotics Masters](https://www.roboticsmasters.co/)
+  * [Backyard Robotics](https://backyardrobotics.eu/)
+  * [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
 
 
