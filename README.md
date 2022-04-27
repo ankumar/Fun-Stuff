@@ -58,6 +58,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 2. [Rossotti's Alpine Inn](https://www.alpineinnpv.com/)
 3. [La Palmera - Seattle](https://www.lapalmerafmr.com/)
 4. [Stanley Tucci: Searching For Italy](https://www.cnn.com/travel/article/stanley-tucci-searching-for-italy-restaurants/index.html)
+5. [SOUTHEAST LOS ANGELES](https://www.lataco.com/southeast-los-angeles-food-guide/)
 
 ### Music
 
