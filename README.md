@@ -1,5 +1,14 @@
 ### Work:
 
+Personal User Manual:
+
+1. Improving Things, Boring & Novel (Greenfield).
+2. Related to above #1, empathy to Things built in the past (Brownfield).
+3. "Stay Hungry. Stay Foolish". (_sign off message from whole earth catalog & from steve jobs_)
+4. Introspective, and Driven to continuously Improve myself.
+5. I feel an extreme sense of urgency in Anything I(We) do.
+6. Avoid back-to-back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
+
 **Messenger, Mail & SoftSwitch [1997-2010]:** 
 **Yahoo!**, Sylantro Systems & Lucent **Bell Labs**, Large Enterprise (Part of AT&T >1M Workforce)
 * My Software Driven World started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP -> VoIP)
