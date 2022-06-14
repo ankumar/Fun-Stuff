@@ -84,9 +84,10 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 1. https://www.altrarunning.com/
 2. 
 3. 
-4. https://neemans.com/ 
-5. https://www.diadora.com/
-6. https://www.greats.com/
+4. https://rothys.com/
+5. https://neemans.com/ 
+6. https://www.diadora.com/
+7. https://www.greats.com/
 
 ### Travel
 
