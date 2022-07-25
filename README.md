@@ -92,6 +92,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 ### Travel
 
 1. https://www.ricksteves.com/europe
+2. https://www.nytimes.com/2022/07/20/travel/national-parks-hidden-gems.html
 
 ### Talks
 
