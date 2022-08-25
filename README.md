@@ -10,7 +10,8 @@ Personal User Manual:
 6. Avoid back-to-back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
 
 **Commerce & Incentives [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
-* "Card" & Tokens
+* Platform Consolidation
+* TBD
 
 **Smart Spaces & Things [2020-2022]:** Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
