@@ -11,7 +11,7 @@ Personal User Manual:
 
 **Commerce & Incentives [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
 * Platform Consolidation
-* TBD
+* Target Architecture
 
 **Smart Spaces & Things [2020-2022]:** Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
 * Commerce: New AB.com, Tools & Analytics
