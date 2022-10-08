@@ -85,9 +85,9 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
 ### Shoes & Brands
  
-1. https://www.altrarunning.com/
+1. 
 2. 
-3. 
+3. https://www.altrarunning.com/
 4. https://rothys.com/
 5. https://neemans.com/ 
 6. https://www.diadora.com/
