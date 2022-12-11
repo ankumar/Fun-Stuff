@@ -9,7 +9,7 @@ Personal User Manual:
 5. I feel an extreme sense of urgency in Anything I(We) do.
 6. Avoid back-to-back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
 
-**Commerce & Incentives [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
+**Commerce [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
 * Platform Consolidation
 * Target Architecture
 
