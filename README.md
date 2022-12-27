@@ -128,5 +128,30 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
   * RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) / [Robotics Masters](https://www.roboticsmasters.co/)
   * [Backyard Robotics](https://backyardrobotics.eu/)
   * [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
+  
+### TV
+
+* Andor (Disney+)
+* The Bear (FX)
+* The Rehearsal (HBO Max)
+* The Dropout (Hulu)
+* Derry Girls (Netflix)
+* The White Lotus (HBO Max)
+* Our Flag Means Death (HBO Max)
+* Somebody Somewhere (HBO Max)
+* Reservation Dogs (FX on Hulu)
+* Minx (HBO Max)
+* Severance (Apple TV+)
+* Irma Vep (HBO)
+* Abbott Elementary (ABC)
+* Better Things (FX)
+* Yellowstone (Paramount)
+* Amber Brown (Apple TV+)
+* ‘Black Bird’ (Apple TV+)
+* ‘Derry Girls’ (Netflix)
+* ‘Pachinko’ (Apple TV+)
+* ‘Slow Horses’ (Apple TV+)
+* ‘Station Eleven’ (HBO Max)
+* ‘This Fool’ (Hulu)
 
 
