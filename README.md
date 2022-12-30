@@ -138,7 +138,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * Derry Girls (Netflix)
 * The White Lotus (HBO Max)
 * Our Flag Means Death (HBO Max)
-* Somebody Somewhere (HBO Max)
+* ~~Somebody Somewhere (HBO Max)~~
 * Reservation Dogs (FX on Hulu)
 * Minx (HBO Max)
 * Severance (Apple TV+)
