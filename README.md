@@ -134,7 +134,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * Andor (Disney+)
 * The Bear (FX)
 * The Rehearsal (HBO Max)
-* The Dropout (Hulu)
+* ~~The Dropout (Hulu)~~
 * Derry Girls (Netflix)
 * The White Lotus (HBO Max)
 * Our Flag Means Death (HBO Max)
