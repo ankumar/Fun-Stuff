@@ -123,11 +123,8 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 ### Robotics
 
 * Currently, [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
-* Pipeline:
-  * [Home Robot - Kickstarter, Estimated delivery Jan'21](https://ximpatico.com/)
-  * RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) / [Robotics Masters](https://www.roboticsmasters.co/)
-  * [Backyard Robotics](https://backyardrobotics.eu/)
-  * [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
+* RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) / [Robotics Masters](https://www.roboticsmasters.co/)
+* [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
   
 ### TV - 2022
 
