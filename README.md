@@ -1,6 +1,6 @@
 ### Work:
 
-Personal User Manual:
+Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf):
 
 1. Improving Things, Boring & Novel (Greenfield).
 2. Related to above #1, empathy to Things built in the past (Brownfield).
