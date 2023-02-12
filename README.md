@@ -67,6 +67,10 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 6. Portola Valley
 7. [Tiger Mountain Trail](https://www.wta.org/go-hiking/hikes/tiger-mountain-trail)
 
+### Art:
+
+1. https://oldprintshop.com/
+
 ### Food:
 
 1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/sanjosefood)
