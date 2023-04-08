@@ -88,8 +88,9 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 3. https://www.youtube.com/watch?v=gY01irEl8Eo
 
 ### Shoes & Brands
- 
-1. 
+
+
+1. https://sneakernews.com/category/adidas/ 
 2. 
 3. https://www.altrarunning.com/
 4. https://rothys.com/
