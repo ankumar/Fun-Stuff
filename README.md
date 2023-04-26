@@ -2,6 +2,8 @@
 
 Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf):
 
+“Make things better. That’s the job”
+“My motto is smaller, simpler, sooner.”
 1. Improving Things, Boring & Novel (Greenfield).
 2. Related to above #1, empathy to Things built in the past (Brownfield).
 3. "Stay Hungry. Stay Foolish". (_sign off message from whole earth catalog & from steve jobs_)
@@ -9,7 +11,7 @@ Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/
 5. I feel an extreme sense of urgency in Anything I(We) do.
 6. Avoid back-to-back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
 
-**Commerce [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
+**Payments [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
 * Platform Consolidation
 * Target Architecture
 
