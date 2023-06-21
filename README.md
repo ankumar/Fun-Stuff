@@ -2,7 +2,7 @@
 
 Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf):
 
-1. Improving Things, Boring & Novel (Greenfield). [ “Make things better. That’s the job”, “My motto is smaller, simpler, sooner.”, "3. "Stay Hungry. Stay Foolish" ]
+1. Improving Things, Boring & Novel (Greenfield).
 2. Related to above #1, empathy to Things built in the past (Brownfield).
 3. Introspective, and Driven to continuously Improve myself.
 4. I feel an extreme sense of urgency in Anything I(We) do.
@@ -47,6 +47,12 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * My Software Driven World started with [Switching software](https://freeswitch.org/confluence/display/FREESWITCH/Glossary#Glossary-Softswitch), IP protocols development (OverLAN project / X.25 -> TCP/IP -> VoIP)
 * Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), Tech Stack - IETF Standards/CORBA,WSDL, [C++](https://awesomecpp.com/) & JAVA,/Talarian SmartSockets/TimesTen In-Memory DB/Solaris
 * Worked on Desktop/Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products Platform & backend at Yahoo!, pioneer of the early Internet.
+
+### Quotes 
+
+1. “Make things better. That’s the job” 
+2. “My motto is smaller, simpler, sooner”
+3. "3. "Stay Hungry. Stay Foolish" (_sign off message from whole earth catalog & from steve jobs_)
 
 ### Trails:
 
