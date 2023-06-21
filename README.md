@@ -48,11 +48,13 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 * Startup [Sylantro Systems (Fun fact: Company Strategy on a Monopoly board)](https://www.networkworld.com/article/2272062/broadsoft-acquires-sylantro-as-voip-market-consolidates.html), Tech Stack - IETF Standards/CORBA,WSDL, [C++](https://awesomecpp.com/) & JAVA,/Talarian SmartSockets/TimesTen In-Memory DB/Solaris
 * Worked on Desktop/Web/Mobile [Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) & [Mail](https://en.wikipedia.org/wiki/Yahoo!_Mail) consumer Products Platform & backend at Yahoo!, pioneer of the early Internet.
 
-### Quotes 
+
+### Quotes:
 
 1. “Make things better. That’s the job” 
 2. “My motto is smaller, simpler, sooner”
 3. "Stay Hungry. Stay Foolish" (_sign off message from whole earth catalog & from steve jobs_)
+
 
 ### Trails:
 
