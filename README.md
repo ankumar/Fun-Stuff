@@ -4,9 +4,9 @@ Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/
 
 1. Improving Things, Boring & Novel (Greenfield).
 2. Related to above #1, empathy to Things built in the past (Brownfield).
-3. Introspective, and Driven to continuously Improve myself.
-4. I feel an extreme sense of urgency in Anything I(We) do.
-5. Avoid Back-to-Back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
+3. I feel an extreme sense of urgency in Anything I(We) do.
+4. Avoid Back-to-Back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
+5. Introspective, and Driven to continuously Improve myself.
 
 **Payments [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
 * Platform Consolidation
