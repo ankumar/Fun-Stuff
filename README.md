@@ -4,7 +4,7 @@ Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/
 
 1. Improving Things, Boring & Novel (Greenfield). [“Make things better. That’s the job”, “My motto is smaller, simpler, sooner.”]
 2. Related to above #1, empathy to Things built in the past (Brownfield).
-3. "Stay Hungry. Stay Foolish". (_sign off message from whole earth catalog & from steve jobs_)
+3. "Stay Hungry. Stay Foolish". [_sign off message from whole earth catalog & from steve jobs_]
 4. Introspective, and Driven to continuously Improve myself.
 5. I feel an extreme sense of urgency in Anything I(We) do.
 6. Avoid back-to-back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
