@@ -52,7 +52,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 
 1. “Make things better. That’s the job” 
 2. “My motto is smaller, simpler, sooner”
-3. "3. "Stay Hungry. Stay Foolish" (_sign off message from whole earth catalog & from steve jobs_)
+3. "Stay Hungry. Stay Foolish" (_sign off message from whole earth catalog & from steve jobs_)
 
 ### Trails:
 
