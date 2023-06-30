@@ -99,10 +99,11 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 2. 
 3. https://www.altrarunning.com/
 4. https://rothys.com/
-5. https://neemans.com/ 
-6. https://www.diadora.com/
-7. https://www.greats.com/
-8. https://sneakernews.com/category/adidas/ 
+5. https://www.asics.com/us/en-us/stability-shoes/c/aa50400000/
+6. https://neemans.com/ 
+7. https://www.diadora.com/
+8. https://www.greats.com/
+9. https://sneakernews.com/category/adidas/ 
 
 ### Travel
 
@@ -129,7 +130,6 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * https://aryavaidyasala.com/
 * https://www.outdoor-office.com/
 * https://probablefutures.org/
-* https://www.asics.com/us/en-us/stability-shoes/c/aa50400000/
 
 ### Robotics
 
