@@ -2,7 +2,7 @@
 
 Personal User Manual, Like [“Working with Me”](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf):
 
-1. Improving Things, Boring & Novel (Green).
+1. Improving Things, Make IT Boring & Novel (Green).
 2. Related to above #1, empathy to Things built in the past (Brown).
 3. I feel an extreme sense of urgency in Anything I(We) do.
 4. Avoid Back-to-Back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
@@ -137,30 +137,6 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 * Currently, [AWS DeepRacer: Driven by Reinforcement Learning](https://www.aws.training/Details/eLearning?id=32143)
 * RC Cars: [DIY Autonomous Cars](https://diyrobocars.com/) 
 * [OpenCV Python Neural Network Autonomous RC Car](https://www.youtube.com/watch?v=BBwEF6WBUQs)
-  
-### TV - 2022
 
-* Andor (Disney+)
-* The Bear (FX)
-* The Rehearsal (HBO Max)
-* ~~The Dropout (Hulu)~~
-* Derry Girls (Netflix)
-* The White Lotus (HBO Max)
-* Our Flag Means Death (HBO Max)
-* ~~Somebody Somewhere (HBO Max)~~
-* Reservation Dogs (FX on Hulu)
-* Minx (HBO Max)
-* Severance (Apple TV+)
-* Irma Vep (HBO)
-* Abbott Elementary (ABC)
-* Better Things (FX)
-* Yellowstone (Paramount)
-* Amber Brown (Apple TV+)
-* ‘Black Bird’ (Apple TV+)
-* ‘Derry Girls’ (Netflix)
-* ‘Pachinko’ (Apple TV+)
-* ‘Slow Horses’ (Apple TV+)
-* ‘Station Eleven’ (HBO Max)
-* ‘This Fool’ (Hulu)
 
 
