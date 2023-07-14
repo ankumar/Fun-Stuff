@@ -2,7 +2,7 @@
 
 1. Improving Things, Make IT Boring +Novel (Green).
 2. Related to above #1, empathy to Things built in the past (Brown).
-3. I feel an extreme sense of urgency in Anything I(We) do.
+3. I feel an extreme sense of urgency in Anything I/We do.
 4. Avoid Back-to-Back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
 5. Introspective, and Driven to continuously Improve myself.
 
