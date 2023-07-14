@@ -11,7 +11,7 @@
 * Target Architecture
 
 **Smart Spaces & Things [2020-2022]:** Platform engineering @ [Acuity Brands](https://www.acuitybrands.com/)
-* Commerce: New AB.com, Tools & Analytics
+* Commerce: New Buyer Experience, Tools & Analytics
 * Sense (See) Think Act: [ATRIUS](https://atrius.com/why-atrius) <-> [ECLYPSE](https://www.distech-controls.com/eclypse)
   * Context: Buildings - [Inside is where most people are most of the time](https://www.drawdown.org/sectors/buildings) / [Acuity Brands
 Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
