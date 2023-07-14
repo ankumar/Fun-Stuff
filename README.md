@@ -94,8 +94,7 @@ Binge Listening to **Ustad Nusrat Fateh Ali Khan**
 
 ### Shoes
 
-
-1. 
+1. https://www.nytimes.com/wirecutter/blog/onitsuka-tiger-mexico-66-sneakers/
 2. 
 3. https://www.altrarunning.com/
 4. https://rothys.com/
