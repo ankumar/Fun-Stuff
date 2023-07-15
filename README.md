@@ -1,10 +1,35 @@
 ### A “user guide” Like [“Working with”](https://assets.ctfassets.net/fzn2n1nzq965/6bKUeQ36CwyDoAUKC965tv/599e5b5a42bb970abbdba03c9ae87578/SCAPE_Working-With.pdf):
 
-1. Improving Things, Make IT Boring +Novel (Green).
-2. Related to above #1, empathy to Things built in the past ([Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/the-maintenance-race/the-maintenance-race/1) / Brown).
-3. I feel an extreme sense of urgency in Anything We do.
-4. Avoid Back-to-Back meetings, Prefer in-person conversations > Video calls > Phone calls > Emails & Texts.
-5. Introspective, and Driven to continuously Improve myself.
+Personal User Guide: Collaborating Effectively with Me
+
+**Introduction:**
+Welcome to my Personal User Guide! This guide aims to provide you with insights on how to collaborate with me effectively. By following these guidelines, we can establish a productive working relationship based on empathy, efficiency, and continuous improvement. Let's dive in!
+
+**Embrace Continuous Improvement:**
+I am committed to constant growth and improvement, both personally and professionally. I encourage you to share your ideas, insights, and suggestions for enhancing our work. Let's foster an environment that values innovation, embraces change, and constantly seeks opportunities for improvement.
+
+**Balance Novelty and Stability:**
+While I appreciate new ideas and approaches, I also understand the importance of stability and reliability. Let's strike a balance between exploring innovative solutions and building upon existing successful practices. We can leverage the strengths of what already works while embracing new possibilities for growth.
+
+**Sense of Urgency:**
+I approach tasks and projects with a strong sense of urgency. Time is valuable, and I believe in making the most of it. I strive to complete work promptly without compromising quality. I value efficient communication, prompt responses, and meeting deadlines. Let's collaborate with a shared sense of urgency to maximize our productivity.
+
+**Communication Preferences:**
+To ensure effective communication, please consider the following preferences:
+
+In-person Conversations: Whenever possible, I prefer face-to-face interactions. They allow for richer communication, better understanding, and the opportunity to build stronger connections. Let's reserve in-person conversations for important discussions, brainstorming sessions, or situations that require deeper engagement.
+
+Video Calls: When in-person meetings are not feasible, video calls are an excellent alternative. They provide visual cues, tone of voice, and foster a more personal connection compared to other remote communication methods. Let's use video calls for collaborative discussions, updates, or when face-to-face interaction is not possible.
+
+Phone Calls: If video calls are not available or practical, a phone call can be an effective way to communicate. Phone calls allow for real-time conversation and quick clarification of urgent matters. Let's opt for phone calls when synchronous communication is necessary or for time-sensitive issues.
+
+Emails & Texts: For non-urgent matters, sharing information, or brief updates, emails and texts are suitable options. They provide a written record and allow for asynchronous communication. However, for complex discussions or important decisions, let's prioritize more interactive communication methods to ensure clarity and understanding.
+
+**Introspection and Continuous Self-Improvement:**
+I believe in introspection and personal growth. I regularly reflect on my actions and seek ways to improve myself. I value feedback and constructive criticism as opportunities for learning and development. I encourage you to provide honest feedback and share your insights. Let's support each other's journey of continuous self-improvement.
+
+**Conclusion:**
+By following these guidelines, we can enhance our collaboration, streamline communication, and foster a culture of continuous improvement. This user guide is meant to serve as a foundation for effective collaboration, and I am open to discussing and adapting it based on our evolving needs. Together, let's strive for productivity, empathy, and personal growth in our work.
 
 **Payments [2022-]:** [Blackhawk Network](https://blackhawknetwork.com/)
 * Platform Consolidation
