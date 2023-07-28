@@ -81,7 +81,7 @@ Lighting](https://www.acuitybrands.com/who-we-are/acuity-brands-lighting)
 
 1. https://oldprintshop.com/
 
-### Food:
+### Food & Icecream:
 
 1. [San Jose Is the Bay Area’s Great Immigrant Food City](https://www.kqed.org/sanjosefood)
 2. [Rossotti's Alpine Inn](https://www.alpineinnpv.com/)
